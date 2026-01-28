@@ -4,7 +4,7 @@ Trying to preserve files & information about this device.<br>
 ## [WLAN Bugfix](/WLAN_Bugfix)
 Fixes the critical memory correction bug.<br>
 
-## Red Pill Mode
+## [Red Pill Mode](http://wiki.maemo.org/Red_Pill_mode)
 Red Pill is an Application manager mode that disables certain safety features, and allows access to certain additional settings.<br>
 
 It changes the way Application manager behaves, primarily by removing many of the safety locks that prevent users from installing harmful packages, or upgrading or replacing important system packages (which can result in reboot loops).<br>
