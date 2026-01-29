@@ -16,7 +16,7 @@ The latest official firmware for the 770 plus the required flasher.<br>
 - Service Schematics
 
 ## [WLAN Bugfix](/WLAN_Bugfix)
-Fixes the critical memory correction bug.<br>
+Fixes the critical memory corruption bug.<br>
 
 ## [Red Pill Mode](http://wiki.maemo.org/Red_Pill_mode)
 Red Pill is an Application manager mode that disables certain safety features, and allows access to certain additional settings.<br>
