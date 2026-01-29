@@ -12,6 +12,7 @@ The latest official firmware for the 770 plus the required flasher.<br>
 ## [Documentation](/Documentation)
 - User Guide
 - Service Manual Levels 1 & 2
+- Service Manual Levels 3 & 4
 - Service Schematics
 
 ## [WLAN Bugfix](/WLAN_Bugfix)
