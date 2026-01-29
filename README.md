@@ -1,11 +1,11 @@
 # Nokia 770 Internet Tablet
 Trying to preserve files & information about this device.<br>
 
-## Firmware
+## [Firmware](/Firmware)
 The latest official firmware for the 770 plus the required flasher.<br>
 - Internet Tablet 2006 edition, Version 3.2006.49-2
 - flasher-2.0 (Linux, Intel 32bit)
-- flasher-2.0.macosx (Intel 64bit)
+- flasher-2.0.macosx (Mac Power PC)
 
 ## [WLAN Bugfix](/WLAN_Bugfix)
 Fixes the critical memory correction bug.<br>
